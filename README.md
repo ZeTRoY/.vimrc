@@ -1,4 +1,2 @@
-#	.vimrc
-#
-# 
-My vim options :D
+#	.vimrc and .bashrc
+My vim and bash options
